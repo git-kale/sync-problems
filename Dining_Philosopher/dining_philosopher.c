@@ -83,6 +83,11 @@ void *philosopher(num)
 
 int main(void)
 {
+
+    printf("\n------------------------------------------------------------------------------------------\n");
+    printf("                           SOLUTION TO SLEEPING BARBER PROBLEM                              \n");
+    printf("------------------------------------------------------------------------------------------\n\n");
+	sleep(1);
 	pthread_t thread_id[N];
 
 	sem_init(&mutex, 0, 1);

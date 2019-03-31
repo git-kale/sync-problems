@@ -93,7 +93,7 @@ int main(int argc, char* arvg[])
 {
 
     printf("\n------------------------------------------------------------------------------------------\n");
-    printf("                           SOLUTION TO SLEEPING BARBER PROBLEM                              \n");
+    printf("                              SOLUTION TO CIGGARATE SMOKERS                                 \n");
     printf("------------------------------------------------------------------------------------------\n\n");
     sleep(1);
 

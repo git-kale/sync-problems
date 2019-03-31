@@ -81,7 +81,7 @@ int main(){
 	sem_init(&prnt , 0, 1);
 
     printf("\n------------------------------------------------------------------------------------------\n");
-    printf("                           SOLUTION TO READER WRITER PROBLEM                              \n");
+    printf("                           SOLUTION TO PRODUCER CONSUMER PROBLEM                              \n");
     printf("------------------------------------------------------------------------------------------\n\n");
 
 	printf("What is total number of producers :");
